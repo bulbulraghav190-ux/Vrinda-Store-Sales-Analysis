@@ -118,7 +118,6 @@ These insights can help understand customer behavior and identify stronger-perfo
 ```text
 Vrinda-Store-Sales-Analysis/
 │
-├── Vrinda Store Data Analysis.csv
-├── Vrinda Store Annual Report 2022.xlsx
-├── Dashboard.png
+├── Vrinda_Store_Annual_Report_2022.png
+├── Vrinda_Store_Sales_Data.csv
 └── README.md
